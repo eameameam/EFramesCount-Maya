@@ -2,6 +2,8 @@
 
 The `EFramesCount` script provides an easy-to-use interface for counting keyframes on selected controls in Autodesk Maya. It is designed to streamline the animation process by giving animators quick insights into the number of keyframes they are working with.
 
+![EFramesCount Window](EFramesCount.png)
+
 ## Installation
 
 1. Place the `EFramesCount.py` file in the `scripts` folder of your Maya directory.
