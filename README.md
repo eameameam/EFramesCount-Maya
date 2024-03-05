@@ -7,6 +7,7 @@ The `EFramesCount` script provides an easy-to-use interface for counting keyfram
 ## Installation
 
 1. Place the `EFramesCount.py` file in the `scripts` folder of your Maya directory.
+2. Place the `EFramesCount` folder in the `prefs/icons` folder of your Maya directory.
 
 ## Usage
 
